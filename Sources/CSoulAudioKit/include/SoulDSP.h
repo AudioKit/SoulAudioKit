@@ -1,4 +1,4 @@
-// Copyright AudioKit. All Rights Reserved. Revision History at http://github.com/AudioKit/AudioKit/
+// Copyright AudioKit. All Rights Reserved.
 
 #ifndef SoulDSP_hpp
 #define SoulDSP_hpp
