@@ -6,7 +6,7 @@
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AudioKitPro.svg?style=social)](https://twitter.com/AudioKitPro)
 
-A basis for creating AudioKit nodes with SOUL
+A basis for creating AudioKit nodes with the [SOUL Sound Language](https://soul.dev).
 
 ## Documentation
 
