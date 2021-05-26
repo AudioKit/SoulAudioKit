@@ -1,4 +1,4 @@
-# SoulAudioKit
+# Soul AudioKit
 
 [![Build Status](https://github.com/AudioKit/SoulAudioKit/workflows/CI/badge.svg)](https://github.com/AudioKit/SoulAudioKit/actions?query=workflow%3ACI)
 [![License](https://img.shields.io/github/license/AudioKit/SoulAudioKit)](https://github.com/AudioKit/SoulAudioKit/blob/main/LICENSE)
