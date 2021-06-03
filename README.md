@@ -1,4 +1,4 @@
-# SoulAudioKit
+# Soul AudioKit
 
 [![Build Status](https://github.com/AudioKit/SoulAudioKit/workflows/CI/badge.svg)](https://github.com/AudioKit/SoulAudioKit/actions?query=workflow%3ACI)
 [![License](https://img.shields.io/github/license/AudioKit/SoulAudioKit)](https://github.com/AudioKit/SoulAudioKit/blob/main/LICENSE)
@@ -6,12 +6,14 @@
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AudioKitPro.svg?style=social)](https://twitter.com/AudioKitPro)
 
-A basis for creating AudioKit nodes with SOUL
+A basis for creating AudioKit nodes with SOUL. 
 
-## Documentation
-
-The Githbub [Wiki](https://github.com/AudioKit/SoulAudioKit/wiki) hosts the documentation for this project.
+* [Diode Clipper](https://github.com/AudioKit/SoulAudioKit/wiki) - Clips a signal to a predefined limit, in a "soft" manner, using one of three methods.
 
 ## TODO
 
-Make mour nodes based on soul patches!
+Make more nodes based on soul patches!
+
+## Installation via Swift Package Manager
+
+To add AudioKitUI to your Xcode project, select File -> Swift Packages -> Add Package Depedancy. Enter `https://github.com/AudioKit/SoulAudioKit` for the URL. 
