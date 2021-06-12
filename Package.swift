@@ -5,9 +5,9 @@ import PackageDescription
 
 let package = Package(
     name: "SoulAudioKit",
-    platforms: [.macOS(.v10_14), .iOS(.v13), .tvOS(.v13)],
+    platforms: [.macOS(.v10_13), .iOS(.v11), .tvOS(.v11)],
     products: [.library(name: "SoulAudioKit", targets: ["SoulAudioKit"])],
-    dependencies: [.package(url: "https://github.com/AudioKit/AudioKit", from: "5.2.0")],
+    dependencies: [.package(url: "https://github.com/AudioKit/AudioKit", .branch("develop"))],
     targets: [
         .target(name: "SoulAudioKit", dependencies: ["AudioKit", "CSoulAudioKit"]),
         .target(name: "CSoulAudioKit", dependencies: ["AudioKit"]),
