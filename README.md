@@ -21,4 +21,4 @@ Make more nodes based on soul patches!
 
 ## Installation via Swift Package Manager
 
-To add AudioKitUI to your Xcode project, select File -> Swift Packages -> Add Package Depedancy. Enter `https://github.com/AudioKit/SoulAudioKit` for the URL. 
+To add AudioKitUI to your Xcode project, select File -> Swift Packages -> Add Package Dependency. Enter `https://github.com/AudioKit/SoulAudioKit` for the URL.
