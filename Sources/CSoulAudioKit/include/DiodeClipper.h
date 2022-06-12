@@ -15,7 +15,7 @@
  #define SOUL_CPP_ASSERT(x)
 #endif
 
-// If you need to provide custom implementations of the instrinsics that soul uses,
+// If you need to provide custom implementations of the intrinsics that soul uses,
 // you can set this macro to provide your own namespace containing them.
 #ifndef SOUL_INTRINSICS
  #define SOUL_INTRINSICS std

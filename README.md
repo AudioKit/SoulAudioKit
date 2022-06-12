@@ -11,7 +11,7 @@
 
 </div>
 
-A basis for creating AudioKit nodes with the [SOUL Sound Language](https://soul.dev).
+Deprecated use of the failed [SOUL Sound Language](https://soul.dev).
 
 * [Diode Clipper](https://github.com/AudioKit/SoulAudioKit/wiki) - Clips a signal to a predefined limit, in a "soft" manner, using one of three methods.
 
